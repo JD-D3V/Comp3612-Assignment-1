@@ -69,7 +69,7 @@ body {
   background: rgba(255,255,255,0.25);
 }
 
-/* ===== INDEX PAGE ===== */
+/* ------ INDEX PAGE ------ */
 
 .hero {
   background:
@@ -232,7 +232,7 @@ body {
   color: var(--footer-text);
 }
 
-/* ===== ABOUT PAGE ===== */
+/* ----- ABOUT PAGE ----- */
 
 .about-hero {
   background: lightgray;
@@ -532,7 +532,7 @@ body {
   color: var(--footer-text);
 }
 
-/* ===== PRODUCT PAGE ===== */
+/* ----- PRODUCT PAGE ----- */
 
 body {
   background: #f3f5f7;
@@ -911,3 +911,4 @@ body {
   line-height: 1.6;
   font-size: 15px;
 }
+
